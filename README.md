@@ -1,1 +1,2 @@
-# This repository is going to be used to host the source files for my Recipe Site
+# Recipe Site
+This repository is going to be used to host the source files for my Recipe Site
